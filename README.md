@@ -34,7 +34,7 @@ After that I started learning fundamentals of databases. I haven't done all the 
 just to get to know the basics.
 
 2022 -->
-Now I have started MASSIVE redoing of VPK Apuri. Slowly making progress to make my app stand up to standards.
+I have started MASSIVE redoing of VPK Apuri. Slowly making progress to make my app stand up to standards.
 
 I have three kids (13, 11 and 1), fulltime job in Hämeenkyrön kunta as a construction worker and my hobby as a volunteer firefighter.
 At my job I also do on call work every eight week.
