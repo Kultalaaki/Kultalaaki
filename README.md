@@ -19,7 +19,7 @@ Few first tries in Android Studio got somehow scrambled because I didn't know wh
 In couple months project VPK Apuri started really going forward. I totally forgot the MOOC course, biggest mistake that I have made.
 When I launched VPK Apuri to the Play Store I didn't even promote it in anyway, but somehow people still founded it.
 Slowly but surely the word got out and many volunteer firefighters in Finland were very excited about it.
-From the beginning the app has had the best feature and the reason I made it, to pick the address from SMS. 
+From the beginning the app has had the best feature and the reason I made it, to pick the address from SMS and show it on Google Maps or some other map program. 
 Check the [VPK Apuri repo](https://github.com/Kultalaaki/VPKApuri) if you're interested.
 
 Android keeps evolving very fast. When I started there wasn't runtime permissions, **everything** was allowed.
