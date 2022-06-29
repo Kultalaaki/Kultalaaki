@@ -7,7 +7,7 @@
 - 📫 You can reach me with email (github_username@gmail.com)
 
 
-## 2014
+## 2014 - 2020
 I started to learn programming. I had one idea and that was to make app for volunteer firefighters in Finland.
 First I discussed this idea with few friends and they thought it might not work the way I wanted.
 Second problem was that I didn't know any programmming at all.
@@ -21,6 +21,13 @@ When I launched VPK Apuri to the Play Store I didn't even promote it in anyway, 
 Slowly but surely the word got out and many volunteer firefighters in Finland were very excited about it.
 From the beginning the app has had the best feature and the reason I made it, to pick the address from SMS. 
 Check the [VPK Apuri repo](https://github.com/Kultalaaki/VPKApuri) if you're interested.
+
+Android keeps evolving very fast. When I started there wasn't runtime permissions, **everything** was allowed.
+I think it was 2018 when my app got kicked out of the Play Store because it uses dangerous permission (reading/ writing sms).
+This has to be approved by Google and many times I tried to get permission from Google but they didn't see my app as useful as I have hoped.
+After kickout I made website to host my app and kept it one year. There was just too much going on in my life at that point so i didn't have strength 
+to keep it up. I didn't abandon my users, as there was constant flow of emails asking how to make 
+app working. Android has introduced so many power optimizations that many users were baffled how things work.
 
 **Biggest** mistake and how it has affected. 
 Well.. I had learned little how to program. I really didn't know how to do it "right".
