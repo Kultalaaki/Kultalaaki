@@ -7,7 +7,7 @@
 - 📫 You can reach me with email (github_username@gmail.com)
 
 
-2014 
+2014
 I started to learn programming. I had one idea and that was to make app for volunteer firefighters in Finland.
 First I discussed this idea with few friends and they thought it might not work the way I wanted.
 Second problem was that I didn't know any programmming at all.
@@ -22,19 +22,19 @@ Slowly but surely the word got out and many volunteer firefighters in Finland we
 From the beginning the app has had the best feature and the reason I made it, to pick the address from SMS. 
 Check the [VPK Apuri repo](https://github.com/Kultalaaki/VPKApuri) if you're interested.
 
-The biggest mistake and how it has affected. 
+**Biggest** mistake and how it has affected. 
 Well.. I had learned little how to program. I really didn't know how to do it "right".
 When making VPK Apuri I just used what I knew from the first six weeks of MOOC Java course. 
 I didn't know how to really utilize OOP. That reason alone affected the outcome in a way that it made progressing the app very difficult.
 My files became hard to change because of so much things going on in same class.
 
-2021 
-I bought new laptop and decided to work my way through the MOOC Java course. Under to months I got through it. 
+2021
+I bought new laptop and decided to work my way through the MOOC Java course. Under two months I got through it. 
 After that I started learning fundamentals of databases. I haven't done all the assignments from that course but that wasn't even my goal, 
 just to get to know the basics.
 
 2022 -->
-Now I have started the MASSIVE redoing of VPK Apuri. Slowly making progress to make my app stand up to standards.
+Now I have started MASSIVE redoing of VPK Apuri. Slowly making progress to make my app stand up to standards.
 
 I have three kids (13, 11 and 1), fulltime job in Hämeenkyrön kunta as a construction worker and my hobby as a volunteer firefighter.
 At my job I also do on call work every eight week.
