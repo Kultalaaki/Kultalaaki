@@ -25,9 +25,9 @@ Check the [VPK Apuri repo](https://github.com/Kultalaaki/VPKApuri) if you're int
 Android keeps evolving very fast. When I started there wasn't runtime permissions, **everything** was allowed.
 I think it was 2018 when my app got kicked out of the Play Store because it uses dangerous permission (reading/ writing sms).
 This has to be approved by Google and many times I tried to get permission from Google but they didn't see my app as useful as I have hoped.
+Now this app is open source for everyone to see what is happening under the hood.
 After kickout I made website to host my app and kept it one year. There was just too much going on in my life at that point so i didn't have strength 
-to keep it up. I didn't abandon my users, as there was constant flow of emails asking how to make 
-app working. Android has introduced so many power optimizations that many users were baffled how things work.
+to keep it up. I didn't abandon my users, as there was constant flow of emails because many phone makers have put so restrictive measures on how apps can work in background.
 
 **Biggest** mistake and how it has affected. 
 Well.. I had learned little how to program. I really didn't know how to do it "right".
@@ -51,3 +51,6 @@ Group leaders in VPK are responsible to plan and keep weekly training to other m
 In spare time I try to learn programming as much I can. 
 
 ✨I'm looking programming jobs to make career change to be a fulltime developer.✨
+
+Certificate [Java I](https://certificates.mooc.fi/validate/f1zqldr2mjc)
+Certificate [Java II](https://certificates.mooc.fi/validate/0tloelmuvph)
