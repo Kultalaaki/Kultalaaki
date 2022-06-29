@@ -4,7 +4,7 @@
 - 👀 I’m interested in volunteer firefighting
 - 🌱 I’m currently learning Java and Android development
 - 💞️ I’m looking to make programming my new profession
-- 📫 You can reach me with email (github_username@gmail.com)
+- 📫 You can reach me with email (kultalaaki@gmail.com)
 
 
 ## 2014 - 2020
@@ -48,9 +48,10 @@ At my job I also do on call work every eight week.
 In Hämeenkyrön VPK I am a group leader, member of the board and responsible person of RPAS (Remotely Piloted Aircraft System) action.
 Group leaders in VPK are responsible to plan and keep weekly training to other members and in alarm situations to be leader of the unit.
 
-In spare time I try to learn programming as much I can. 
+In spare time I try to learn programming as much as I can. 
 
 ✨I'm looking programming jobs to make career change to be a fulltime developer.✨
 
-Certificate [Java I](https://certificates.mooc.fi/validate/f1zqldr2mjc)
-Certificate [Java II](https://certificates.mooc.fi/validate/0tloelmuvph)
+### Certificates 
+- [Java I](https://certificates.mooc.fi/validate/f1zqldr2mjc)
+- [Java II](https://certificates.mooc.fi/validate/0tloelmuvph)
